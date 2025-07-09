@@ -1,4 +1,4 @@
-# uts Aplikasi Bisnis
+# Uts Aplikasi Bisnis
 
 Repositori ini berisi file uts mata kuliah **Aplikasi Bisnis**.
 
