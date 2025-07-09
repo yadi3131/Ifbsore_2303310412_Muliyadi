@@ -8,7 +8,7 @@ Tugas ini dibuat untuk memenuhi salah satu penilaian dalam perkuliahan Aplikasi 
 
 ## Informasi Mahasiswa
 
-- **Nama:** Mulyadi  
+- **Nama:** Muliyadi  
 - **NIM:** 2303310412  
 - **Kelas:** IFBSore  
 - **Mata Kuliah:** Aplikasi Bisnis
