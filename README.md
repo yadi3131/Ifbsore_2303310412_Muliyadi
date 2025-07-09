@@ -1,10 +1,10 @@
-# Tugas Aplikasi Bisnis
+# uts Aplikasi Bisnis
 
-Repositori ini berisi file tugas mata kuliah **Aplikasi Bisnis**.
+Repositori ini berisi file uts mata kuliah **Aplikasi Bisnis**.
 
 ## Deskripsi
 
-Tugas ini dibuat untuk memenuhi salah satu penilaian dalam perkuliahan Aplikasi Bisnis. Isi tugas berupa dokumen analisis atau laporan yang berhubungan dengan materi yang telah dipelajari.
+Tugas ini dibuat untuk memenuhi salah satu penilaian dalam perkuliahan Aplikasi Bisnis. Isi berupa dokumen analisis atau laporan yang berhubungan dengan materi yang telah dipelajari.
 
 ## Informasi Mahasiswa
 
